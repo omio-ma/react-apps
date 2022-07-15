@@ -23,7 +23,7 @@ const App = () => (
         imageSource={CornwallImage}
         imageTitle="Chill at the beach"
         imageAltMessage="cornwall image"
-        imageDescription="I  mean sure its not the longested uninterrupted beach, but there is just so much varities of them!"
+        imageDescription="I  mean sure its not the longest uninterrupted beach, but there is just so much varities of them!"
       />
       <Article
         imageSource={CookiesImage}
