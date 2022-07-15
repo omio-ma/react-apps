@@ -17,7 +17,7 @@ const App = () => (
         imageSource={MainImage}
         imageTitle="There is a bridge"
         imageAltMessage="tower bridge image"
-        imageDescription="It has a bridge lasting over hundreds of years so you know its safe to make that switch!"
+        imageDescription="It has a bridge lasting over hundreds of years so you know its safe to make that cross!"
       />
       <Article
         imageSource={CornwallImage}
